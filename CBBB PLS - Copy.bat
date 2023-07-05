@@ -1,5 +1,6 @@
 @echo off 
 setlocal enableDelayedExpansion
+chcp 65001
 
 set link1=link1
 set link2=link2
